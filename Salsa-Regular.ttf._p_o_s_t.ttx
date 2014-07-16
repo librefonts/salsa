@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="nbspace"/>
+      <psName name="uni00AD"/>
+      <psName name="hbar"/>
+      <psName name="Itilde"/>
+      <psName name="itilde"/>
+      <psName name="ij"/>
+      <psName name="Jcircumflex"/>
+      <psName name="jcircumflex"/>
+      <psName name="kcedilla"/>
+      <psName name="kgreenlandic"/>
+      <psName name="ldot"/>
+      <psName name="Nacute"/>
+      <psName name="nacute"/>
+      <psName name="Racute"/>
+      <psName name="Rcommaaccent"/>
+      <psName name="rcommaaccent"/>
+      <psName name="Rcaron"/>
+      <psName name="rcaron"/>
+      <psName name="gravecomb"/>
+      <psName name="acutecomb"/>
+      <psName name="zerosuperior"/>
+      <psName name="foursuperior"/>
+      <psName name="zeroinferior"/>
+      <psName name="twoinferior"/>
+      <psName name="fourinferior"/>
+      <psName name="ff"/>
+      <psName name="ffi"/>
+      <psName name="ffl"/>
+      <psName name="S.swash"/>
+      <psName name="R.swash"/>
+      <psName name="Z.swash"/>
+      <psName name="J.swash"/>
+      <psName name="C.swash"/>
+      <psName name="B.ini"/>
+      <psName name="A.swash"/>
+      <psName name="E.swash_ini"/>
+      <psName name="f_t"/>
+      <psName name="middot"/>
+      <psName name="A.ini"/>
+      <psName name="A.end"/>
+      <psName name="Aacute.end"/>
+      <psName name="Agrave.end"/>
+      <psName name="Adieresis.end"/>
+      <psName name="Atilde.end"/>
+      <psName name="Aring.end"/>
+      <psName name="Acircumflex.end"/>
+      <psName name="D.ini"/>
+      <psName name="F.swash_ini"/>
+      <psName name="F.ini"/>
+      <psName name="G.swash"/>
+      <psName name="H.ini"/>
+      <psName name="H.end"/>
+      <psName name="K.swash"/>
+      <psName name="L.ini"/>
+      <psName name="L.end"/>
+      <psName name="M.ini"/>
+      <psName name="N.ini"/>
+      <psName name="P.ini"/>
+      <psName name="Q.swash"/>
+      <psName name="N.swash"/>
+      <psName name="T.ini"/>
+      <psName name="U.end"/>
+      <psName name="V.ini"/>
+      <psName name="V.swash"/>
+      <psName name="W.ini"/>
+      <psName name="W.swash"/>
+      <psName name="X.swash"/>
+      <psName name="Y.ini"/>
+      <psName name="Ntilde.swash"/>
+      <psName name="Aacute.ini"/>
+      <psName name="Acircumflex.ini"/>
+      <psName name="Adieresis.ini"/>
+      <psName name="Agrave.ini"/>
+      <psName name="Aring.ini"/>
+      <psName name="Atilde.ini"/>
+      <psName name="B.swash"/>
+      <psName name="Aacute.swash"/>
+      <psName name="Acircumflex.swash"/>
+      <psName name="Adieresis.swash"/>
+      <psName name="Agrave.swash"/>
+      <psName name="Aring.swash"/>
+      <psName name="Atilde.swash"/>
+      <psName name="Z.end"/>
+      <psName name="D.swash"/>
+      <psName name="J.ini"/>
+      <psName name="S.ini"/>
+      <psName name="J.swash_ini"/>
+      <psName name="commaaccent"/>
+      <psName name="M.swash"/>
+      <psName name="L.swash"/>
+      <psName name="A.swash_ini"/>
+      <psName name="Aacute.swash_ini"/>
+      <psName name="Acircumflex.swash_ini"/>
+      <psName name="Agrave.swash_ini"/>
+      <psName name="Atilde.swash_ini"/>
+      <psName name="Adieresis.swash_ini"/>
+      <psName name="Aring.swash_ini"/>
+      <psName name="A.swash_end"/>
+      <psName name="Aacute.swash_end"/>
+      <psName name="Acircumflex.swash_end"/>
+      <psName name="Agrave.swash_end"/>
+      <psName name="Adieresis.swash_end"/>
+      <psName name="Aring.swash_end"/>
+      <psName name="Atilde.swash_end"/>
+      <psName name="E.ini"/>
+      <psName name="Eacute.ini"/>
+      <psName name="Egrave.ini"/>
+      <psName name="Ecircumflex.ini"/>
+      <psName name="Edieresis.ini"/>
+      <psName name="Eacute.swash_ini"/>
+      <psName name="Ecircumflex.swash_ini"/>
+      <psName name="Edieresis.swash_ini"/>
+      <psName name="Egrave.swash_ini"/>
+      <psName name="H.swash"/>
+      <psName name="H.swash_ini"/>
+      <psName name="H.swash_end"/>
+      <psName name="E.end"/>
+      <psName name="Eacute.end"/>
+      <psName name="Ecircumflex.end"/>
+      <psName name="Edieresis.end"/>
+      <psName name="Egrave.end"/>
+      <psName name="Y.swash"/>
+      <psName name="Yacute.swash"/>
+      <psName name="Ydieresis.swash"/>
+      <psName name="Yacute.ini"/>
+      <psName name="Ydieresis.ini"/>
+      <psName name="I.swash"/>
+      <psName name="Iacute.swash"/>
+      <psName name="Igrave.swash"/>
+      <psName name="Icircumflex.swash"/>
+      <psName name="Idieresis.swash"/>
+      <psName name="Itilde.swash"/>
+      <psName name="Nacute.ini"/>
+      <psName name="Ntilde.ini"/>
+      <psName name="Nacute.swash"/>
+      <psName name="Y.swash_ini"/>
+      <psName name="Yacute.swash_ini"/>
+      <psName name="Ydieresis.swash_ini"/>
+      <psName name="O.swash"/>
+      <psName name="Oacute.swash"/>
+      <psName name="Ocircumflex.swash"/>
+      <psName name="Odieresis.swash"/>
+      <psName name="Ograve.swash"/>
+      <psName name="Otilde.swash"/>
+      <psName name="Oslash.swash"/>
+    </extraNames>
+  </post>
+
+</ttFont>

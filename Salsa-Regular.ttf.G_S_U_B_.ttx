@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=4 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=4 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="init"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="swsh"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=4 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="f,i" glyph="ffi"/>
+            <Ligature components="f,l" glyph="ffl"/>
+            <Ligature components="f" glyph="ff"/>
+            <Ligature components="l" glyph="fl"/>
+            <Ligature components="i" glyph="fi"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.ini"/>
+          <Substitution in="Aacute" out="Aacute.ini"/>
+          <Substitution in="Acircumflex" out="Acircumflex.ini"/>
+          <Substitution in="Adieresis" out="Adieresis.ini"/>
+          <Substitution in="Agrave" out="Agrave.ini"/>
+          <Substitution in="Aring" out="Aring.ini"/>
+          <Substitution in="Atilde" out="Atilde.ini"/>
+          <Substitution in="B" out="B.ini"/>
+          <Substitution in="D" out="D.ini"/>
+          <Substitution in="E" out="E.ini"/>
+          <Substitution in="F" out="F.ini"/>
+          <Substitution in="H" out="H.ini"/>
+          <Substitution in="J" out="J.ini"/>
+          <Substitution in="M" out="M.ini"/>
+          <Substitution in="N" out="N.ini"/>
+          <Substitution in="Nacute" out="Nacute.ini"/>
+          <Substitution in="Ntilde" out="Ntilde.ini"/>
+          <Substitution in="P" out="P.ini"/>
+          <Substitution in="S" out="S.ini"/>
+          <Substitution in="T" out="T.ini"/>
+          <Substitution in="V" out="V.ini"/>
+          <Substitution in="W" out="W.ini"/>
+          <Substitution in="Y" out="Y.ini"/>
+          <Substitution in="Yacute" out="Yacute.ini"/>
+          <Substitution in="Ydieresis" out="Ydieresis.ini"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.end"/>
+          <Substitution in="H" out="H.end"/>
+          <Substitution in="L" out="L.end"/>
+          <Substitution in="U" out="U.end"/>
+          <Substitution in="Z" out="Z.end"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.swash"/>
+          <Substitution in="A.end" out="A.swash_end"/>
+          <Substitution in="A.ini" out="A.swash_ini"/>
+          <Substitution in="Aacute" out="Aacute.swash"/>
+          <Substitution in="Aacute.end" out="Aacute.swash_end"/>
+          <Substitution in="Aacute.ini" out="Aacute.swash_ini"/>
+          <Substitution in="Acircumflex" out="Acircumflex.swash"/>
+          <Substitution in="Acircumflex.end" out="Acircumflex.swash_end"/>
+          <Substitution in="Acircumflex.ini" out="Acircumflex.swash_ini"/>
+          <Substitution in="Adieresis" out="Adieresis.swash"/>
+          <Substitution in="Adieresis.end" out="Adieresis.swash_end"/>
+          <Substitution in="Adieresis.ini" out="Adieresis.swash_ini"/>
+          <Substitution in="Agrave" out="Agrave.swash"/>
+          <Substitution in="Agrave.end" out="Agrave.swash_end"/>
+          <Substitution in="Agrave.ini" out="Agrave.swash_ini"/>
+          <Substitution in="Aring" out="Aring.swash"/>
+          <Substitution in="Aring.end" out="Aring.swash_end"/>
+          <Substitution in="Aring.ini" out="Aring.swash_ini"/>
+          <Substitution in="Atilde" out="Atilde.swash"/>
+          <Substitution in="Atilde.end" out="Atilde.swash_end"/>
+          <Substitution in="Atilde.ini" out="Atilde.swash_ini"/>
+          <Substitution in="B" out="B.swash"/>
+          <Substitution in="C" out="C.swash"/>
+          <Substitution in="E.ini" out="E.swash_ini"/>
+          <Substitution in="Eacute.ini" out="Eacute.swash_ini"/>
+          <Substitution in="Ecircumflex.ini" out="Ecircumflex.swash_ini"/>
+          <Substitution in="Edieresis.ini" out="Edieresis.swash_ini"/>
+          <Substitution in="Egrave.ini" out="Egrave.swash_ini"/>
+          <Substitution in="F.ini" out="F.swash_ini"/>
+          <Substitution in="G" out="G.swash"/>
+          <Substitution in="H" out="H.swash"/>
+          <Substitution in="H.end" out="H.swash_end"/>
+          <Substitution in="H.ini" out="H.swash_ini"/>
+          <Substitution in="I" out="I.swash"/>
+          <Substitution in="Iacute" out="Iacute.swash"/>
+          <Substitution in="Icircumflex" out="Icircumflex.swash"/>
+          <Substitution in="Idieresis" out="Idieresis.swash"/>
+          <Substitution in="Igrave" out="Igrave.swash"/>
+          <Substitution in="Itilde" out="Itilde.swash"/>
+          <Substitution in="J" out="J.swash"/>
+          <Substitution in="J.ini" out="J.swash_ini"/>
+          <Substitution in="K" out="K.swash"/>
+          <Substitution in="L" out="L.swash"/>
+          <Substitution in="M" out="M.swash"/>
+          <Substitution in="N" out="N.swash"/>
+          <Substitution in="Nacute" out="Nacute.swash"/>
+          <Substitution in="Ntilde" out="Ntilde.swash"/>
+          <Substitution in="O" out="O.swash"/>
+          <Substitution in="Oacute" out="Oacute.swash"/>
+          <Substitution in="Ocircumflex" out="Ocircumflex.swash"/>
+          <Substitution in="Odieresis" out="Odieresis.swash"/>
+          <Substitution in="Ograve" out="Ograve.swash"/>
+          <Substitution in="Oslash" out="Oslash.swash"/>
+          <Substitution in="Otilde" out="Otilde.swash"/>
+          <Substitution in="Q" out="Q.swash"/>
+          <Substitution in="R" out="R.swash"/>
+          <Substitution in="S" out="S.swash"/>
+          <Substitution in="V" out="V.swash"/>
+          <Substitution in="W" out="W.swash"/>
+          <Substitution in="X" out="X.swash"/>
+          <Substitution in="Y" out="Y.swash"/>
+          <Substitution in="Y.ini" out="Y.swash_ini"/>
+          <Substitution in="Yacute" out="Yacute.swash"/>
+          <Substitution in="Yacute.ini" out="Yacute.swash_ini"/>
+          <Substitution in="Ydieresis" out="Ydieresis.swash"/>
+          <Substitution in="Ydieresis.ini" out="Ydieresis.swash_ini"/>
+          <Substitution in="Z" out="Z.swash"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
